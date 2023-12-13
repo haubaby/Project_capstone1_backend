@@ -1,5 +1,5 @@
 # event_schedule
-Sau khi clone repo về local
+Sau khi clone repo về
 ## **Bật terminal**
 # Step 1 : 
 Chạy `yarn install` 
